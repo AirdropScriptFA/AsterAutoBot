@@ -22,3 +22,11 @@ nano token.txt
 5. Start the bot
 ```bash
 node index
+```
+
+
+--
+
+Join Telegram:- https://t.me/airdropscriptfa
+
+Thank You NTEXHAUST 🫡
