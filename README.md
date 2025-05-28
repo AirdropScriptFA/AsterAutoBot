@@ -15,7 +15,10 @@ cd AsterAutoBot
 ```bash
 npm install
 ```
-
-4. Start the bot
+4. Enter the token
+```bash
+nano token.txt
+```
+5. Start the bot
 ```bash
 node index
